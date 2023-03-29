@@ -1,0 +1,505 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:500');
+.back{
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}
+
+body{
+  background-color: #C2C2C2;
+}
+.titulo1 h1{
+  font-size: 50px;
+  font-family: 'Oswald', sans-serif;
+  position: absolute;
+  left: 550px;
+  top: -30px;
+  color: black;
+}
+
+.titulo2 h1{
+  font-family: 'Oswald', sans-serif;
+  position: absolute;
+  left: 630px;
+  top: 140px;
+  color: black;
+  font-size: 45px;
+}
+.titulo3 h1{
+  font-family: 'Oswald', sans-serif;
+  position: absolute;
+  left: 355px;
+  top: 313px;
+  color: black;
+  font-size: 25px;
+  font-weight:500;
+}
+
+.respuesta1 h1{
+  font-family: 'Oswald', sans-serif;
+  position: absolute;
+  left: 355px;
+  top: 350px;
+  color: black;
+  font-size: 20px;
+  font-weight:50;
+}
+
+
+.rodillo3 h1{
+  font-family: 'Oswald', sans-serif;
+  position: absolute;
+  left: 621px;
+  top: 148px;
+  color: black;
+  font-size: 40px;
+  
+}
+.brocha1 h1{
+  font-family: 'Oswald', sans-serif;
+  position: absolute;
+  left: 355px;
+  top: 250px;
+  color: black;
+  font-size: 25px;
+  font-weight:500;
+}
+.brochita2 h1{
+  font-family: 'Oswald', sans-serif;
+  position: absolute;
+  left: 355px;
+  top: 300px;
+  color: black;
+  font-size: 20px;
+  font-weight:50;;
+}
+
+.brochito3 h1{
+  font-family: 'Oswald', sans-serif;
+  position: absolute;
+  left: 355px;
+  top: 370px;
+  color: black;
+  font-size: 20px;
+  font-weight:50;; 
+}
+.brochite4 h1{
+  font-family: 'Oswald', sans-serif;
+  position: absolute;
+  left: 357px;
+  top: 445px;
+  color: black;
+  font-size: 20px;
+  font-weight:50;; 
+}
+.brochitee5 h1{
+  font-family: 'Oswald', sans-serif;
+  position: absolute;
+  left: 355px;
+  top: 550px;
+  color: black;
+  font-size: 20px;
+  font-weight:50; 
+}
+
+.pincel2 h1{
+  font-family: 'Oswald', sans-serif;
+  position: absolute;
+  left: 533px;
+  top: 140px;
+  color: black;
+  font-size: 40px;
+  
+}
+
+.pincelada1 h1{
+  font-family: 'Oswald', sans-serif;
+  position: absolute;
+  left: 355px;
+  top: 250px;
+  color: black;
+  font-size: 25px;
+  font-weight:500;
+}
+
+.pincelbiselado2 h1{
+  font-family: 'Oswald', sans-serif;
+  position: absolute;
+  left: 355px;
+  top: 300px;
+  color: black;
+  font-size: 20px;
+  font-weight:50; 
+ 
+}
+
+  .pincelbiselado2 h1{
+    font-family: 'Oswald', sans-serif;
+    position: absolute;
+    left: 355px;
+    top: 300px;
+    color: black;
+    font-size: 20px;
+    font-weight:50; 
+   
+
+  }
+
+  .pincelabanico3 h1{
+    font-family: 'Oswald', sans-serif;
+    position: absolute;
+    left: 355px;
+    top: 340px;
+    color: black;
+    font-size: 20px;
+    font-weight:50; 
+   
+
+  }
+
+  .pincelplano4 h1{
+    font-family: 'Oswald', sans-serif;
+    position: absolute;
+    left: 355px;
+    top: 378px;
+    color: black;
+    font-size: 20px;
+    font-weight:50; 
+   
+  }
+  .pincelredondo5 h1{
+    font-family: 'Oswald', sans-serif;
+    position: absolute;
+    left: 355px;
+    top: 416px;
+    color: black;
+    font-size: 20px;
+    font-weight:50; 
+
+  }
+
+  .pincelleon6 h1{
+    font-family: 'Oswald', sans-serif;
+    position: absolute;
+    left: 355px;
+    top: 455px;
+    color: black;
+    font-size: 20px;
+    font-weight:50; 
+
+  }
+  .pinceldelgado7 h1{
+    font-family: 'Oswald', sans-serif;
+    position: absolute;
+    left: 355px;
+    top: 490px;
+    color: black;
+    font-size: 20px;
+    font-weight:50; 
+
+  }
+
+
+.lapiz2 h1{
+  font-family: 'Oswald', sans-serif;
+  position: absolute;
+  left: 550px;
+  top: 140px;
+  color: black;
+  font-size: 40px;
+ 
+}
+.colores1 h1{
+  font-family: 'Oswald', sans-serif;
+  position: absolute;
+  left: 302px;
+  top: 250px;
+  color: black;
+  font-size: 25px;
+  font-weight:500;
+}
+
+.sacapunta2 h1{
+  font-family: 'Oswald', sans-serif;
+  position: absolute;
+  left: 593px;
+  top: 140px;
+  color: black;
+  font-size: 40px;
+  
+}
+.tajalapiz1 h1{
+  font-family: 'Oswald', sans-serif;
+  position: absolute;
+  left: 355px;
+  top: 250px;
+  color: black;
+  font-size: 25px;
+  font-weight:500;
+}
+.borrador2 h1{
+  font-family: 'Oswald', sans-serif;
+  position: absolute;
+  left: 355px;
+  top: 300px;
+  color: black;
+  font-size: 20px;
+  font-weight:50; 
+
+}
+.borrador3 h1{
+  font-family: 'Oswald', sans-serif;
+  position: absolute;
+  left: 355px;
+  top: 375px;
+  color: black;
+  font-size: 20px;
+  font-weight:50; 
+
+}
+.borrador4 h1{
+  font-family: 'Oswald', sans-serif;
+  position: absolute;
+  left: 355px;
+  top: 450px;
+  color: black;
+  font-size: 20px;
+  font-weight:50; 
+
+}
+
+
+
+
+
+
+
+
+
+.titulo4 h1{
+  font-family: 'Oswald', sans-serif;
+  position: absolute;
+  left: 355px;
+  top: 380px;
+  color: black;
+  font-size: 25px;
+  font-weight:500;
+}
+.respuesta2 h1{
+  font-family: 'Oswald', sans-serif;
+  position: absolute;
+  left: 355px;
+  top: 415px;
+  color: black;
+  font-size: 20px;
+  font-weight:50;
+}
+.titulo5 h1{
+  font-family: 'Oswald', sans-serif;
+  position: absolute;
+  left: 355px;
+  top: 445px;
+  color: black;
+  font-size: 25px;
+  font-weight:500;
+}
+.respuesta3 h1{
+  font-family: 'Oswald', sans-serif;
+  position: absolute;
+  left: 355px;
+  top: 480px;
+  color: black;
+  font-size: 20px;
+  font-weight:20;
+}
+.titulo6 h1{
+  font-family: 'Oswald', sans-serif;
+  position: absolute;
+  left: 355px;
+  top: 510px;
+  color: black;
+  font-size: 25px;
+  font-weight:500;
+}
+.respuesta4 h1{
+  font-family: 'Oswald', sans-serif;
+  position: absolute;
+  left: 355px;
+  top: 545px;
+  color: black;
+  font-size: 20px;
+  font-weight:50;
+}
+.titulo7 h1{
+  font-family: 'Oswald', sans-serif;
+  position: absolute;
+  left: 355px;
+  top: 250px;
+  color: black;
+  font-size: 25px;
+  font-weight:500;
+}
+
+.respuesta5 h1{
+  font-family: 'Oswald', sans-serif;
+  position: absolute;
+  left: 355px;
+  top: 285px;
+  color: black;
+  font-size: 20px;
+  font-weight:50;
+}
+
+
+
+
+
+
+.imag5 img{
+  position: absolute;
+ top: 325px;
+ left: 300px;
+ width:150px;
+ height: 150px;
+}
+
+.imag6 img{
+  position: absolute;
+ top: 325px;
+ left: 490px;
+ width:150px;
+ height: 150px;
+}
+
+.imag7 img{
+  position: absolute;
+ top: 325px;
+ left: 680px;
+ width:150px;
+ height: 150px;
+}
+.imag8 img{
+  position: absolute;
+ top: 325px;
+ left: 870px;
+ width:150px;
+ height: 150px;
+}
+
+.imag9 img{
+  position: absolute;
+ top: 500px;
+ left: 870px;
+ width:150px;
+ height: 150px;
+}
+.imag10 img{
+  position: absolute;
+ top: 500px;
+ left: 682px;
+ width:150px;
+ height: 150px;
+}
+
+.imag11 img{
+  position: absolute;
+ top: 500px;
+ left: 490px;
+ width:150px;
+ height: 150px;
+}
+.imag12 img{
+  position: absolute;
+ top: 500px;
+ left: 300px;
+ width:150px;
+ height: 150px;
+}
+
+.imag13 img{
+  position: absolute;
+ top: 280px;
+ left: 790px;
+ width:160px;
+ height: 170px;
+}
+
+
+
+
+
+
+
+.thx{
+  position: fixed;
+  left:50%;
+  transform:translateX(-50%);
+  bottom: 15px;
+}
+nav{
+  width: 100%;
+  position: fixed;
+  top:100px;
+  text-align:center;
+}
+nav a{
+  font-family: 'Oswald', sans-serif;
+  font-weight:500;
+  text-transform:uppercase;
+  text-decoration:none;
+  color:#16151b;
+  margin:0 15px;
+  font-size:16px;
+  letter-spacing:1px;
+  position:relative;
+  display:inline-block;
+}
+nav a:before{
+  content:'';
+  position: absolute;
+  width: 100%;
+  height: 3px;
+  background:#16151b;
+  top:47%;
+  animation:out 0.2s cubic-bezier(1, 0, 0.58, 0.97) 1 both;
+}
+nav a:hover:before{
+  animation:in 0.2s cubic-bezier(1, 0, 0.58, 0.97) 1 both;
+
+}
+@keyframes in{
+  0%{
+    width: 0;
+    left:0;
+    right:auto;
+  }
+  100%{
+    left:0;
+    right:auto;
+    width: 100%;
+  }
+}
+@keyframes out{
+  0%{
+    width:100%;
+    left: auto;
+    right: 0;
+  }
+  100%{
+    width: 0;
+    left: auto;
+    right: 0;
+  }
+}
+@keyframes show{
+  0%{
+    opacity:0;
+    transform:translateY(-10px);
+  }
+  100%{
+    opacity:1;
+    transform:translateY(0);
+  }
+}
